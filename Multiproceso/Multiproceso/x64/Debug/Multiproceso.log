@@ -1,0 +1,4 @@
+﻿  Multiproceso.cpp
+C:\Users\bielfermar\source\repos\Multiproceso\Multiproceso\Multiproceso.cpp(39,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\bielfermar\source\repos\Multiproceso\Multiproceso\Multiproceso.cpp(46,13): warning C4312: 'conversión de tipo': conversión de 'int' a 'LPVOID' de mayor tamaño
+  Multiproceso.vcxproj -> C:\Users\bielfermar\source\repos\Multiproceso\x64\Debug\Multiproceso.exe
